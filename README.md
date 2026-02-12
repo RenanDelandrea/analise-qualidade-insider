@@ -22,7 +22,6 @@ Este repositório contém a análise técnica de qualidade realizada sobre a NEX
 A análise técnica validou que a alta performance da peça é resultado direto da seleção de matérias-primas nobres. O uso do Liocel garante uma resistência superior à do algodão tradicional, enquanto o elastano assegura a memória elástica do produto sob tensão.
 
 ## Documentação Disponível
-* [Relatorio-Qualidade-EBAC.pdf]: Relatório completo formatado conforme as normas ABNT (NBR 14724).
-
+* [Visualizar Relatório Completo (PDF)](Relatorio-Qualidade-EBAC.pdf):  Relatório completo formatado conforme as normas ABNT (NBR 14724).
 ---
 **Desenvolvido por Renan Delandrea**
